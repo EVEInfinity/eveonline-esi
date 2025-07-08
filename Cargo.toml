@@ -11,4 +11,4 @@ description = "EVE Online ESI for Rust."
 license = "LGPL-3.0"
 
 [dependencies]
-openapi = { path = "./openapi" }
+eveonline_esi_openapi = { path = "./openapi" }

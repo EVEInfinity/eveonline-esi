@@ -1,10 +1,10 @@
 [package]
-name = "openapi"
+name = "eveonline_esi_openapi"
 version = "1.33.0"
-authors = ["OpenAPI Generator team and contributors"]
+authors = ["OpenAPI Generator team and contributors", "ZeroDegress <zerodegress@outlook.com>"]
 description = "An OpenAPI for EVE Online"
 # Override this license by providing a License Object in the OpenAPI.
-license = "Unlicense"
+license = "LGPL-3.0"
 edition = "2021"
 
 [dependencies]
