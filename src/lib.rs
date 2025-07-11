@@ -1,1 +1,1 @@
-pub use openapi;
+pub use eveonline_esi_openapi as openapi;
