@@ -1,6 +1,5 @@
 .gitignore
 .travis.yml
-Cargo.toml
 README.md
 docs/AllianceApi.md
 docs/AssetsApi.md
